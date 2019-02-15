@@ -2,7 +2,7 @@
 OMI VCV RACK WORKSHOP
 
 # Download VCV Rack
-https://vcvrack.com/ and make and account
+https://vcvrack.com/ and make an account
 
 # Add the Gratrix plugin
 https://vcvrack.com/plugins.html
